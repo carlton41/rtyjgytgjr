@@ -1,0 +1,125 @@
+APOLLO:Apollo IE:24
+a615:Audi A6:25
+arv10:Audi R8:25
+rs7:Audi Rs7:25
+mb6:Maybach 6:59
+aqv:Alfa Romeo Guilia:23
+stelvio:Alfa Romeo SUV:23
+vantage: Aston Martin Vantage:26
+avalk:Valk:26
+bbentayga:Bentley Bentayaga:27
+contss18:Bentley Continental:27
+rmodm4gts:BMW M4:28
+bmci:BMW M5:28
+i8:BMW I8:28
+z419:BMW z4:28
+brabus850:S class Coupe Brabus:29
+brabus700:G Class 6x6 Brabus:29
+dubsta:G class Squared:29
+buccaneer:Buick Riviera:30
+bgnx:Buick GNX:30
+rmaster:Buick Roadmaster:30
+ctsv16:CTS-V:31
+cats:ATS-V:31
+cesc21:Escalade:31
+exor:Camaro Hennessy:32
+c7:Corvette ZR1:32
+c8:Corvette C8:32
+silverado:Silverado Mrf3:32
+tahoe:Tahoe:32
+sandking11:Silveado 3adi:32
+caprice13:Caprice:32
+adddddsterope:300C:33
+minivan:Minivan:33
+develSix:Devel Sixteen:34
+16charger:Charger 1:35
+19ramoffroad:Offroad Ram:35
+chr20:Charger 2:25
+dcd:Demon:35
+buffalo2:Charger 3:35
+durango:Durango:35
+f812:812 Superfast:36
+lw458s:Librety walk 458:36
+f458:458:36
+mustang19:mustang 2019:37
+superduty:F350 Mrf3:37
+dominator:Mustang 2015:37
+19gt500:Mustang GT500:37
+explorer20:Explorer:37
+velociraptor:Raptor 6x6:37
+gc9:Geely GC9:38
+felon:Gnss coupe:39
+G90:Genesis G90:39
+alpha:Genesis:39
+Suburban:Suburban 89:40
+bison:Sierra:40
+denalihd:Denali Sierra:40
+gmcyd:Yukon:40
+asea:Holden HSV GTS:43
+cv8:Holden:43
+exemplar:Elantra:45
+fq2:Santa Fe:45
+asterope:Sonata:45
+schafter6:Q50:46
+stanier:Caprice 1983:68
+xj:XJ:47
+fpacehm:Jaguar F pace:47
+rubi3d:Jeep Wrangler:48
+srt8:SRT Jeep Grand Cherokee:48
+kiagt:Stinger:49
+felon:Cadenza:49
+optima:Optima:49
+svj63:SVJ:52
+urus:Urus:52
+18performante:Huracan Peformante:52
+baller4:AutoBiography SV:53
+lfa10:LFA:54
+lc500:LC 500:54
+lx570:LX570:54
+RX7TUNABLE:RX-7:57
+na6:Miata:57
+p1LP1:58
+600lt:600LT:58
+cls2015:CLS63:59
+mb18:S63 cabriolet:59
+19S650:Maybach S650:59
+amggtr:GTR:59
+g632019::G63:59
+c63w205:C63:59
+serv_electricscooter:Scooter:69
+wheelchair:Chair:69
+slingshot:Slingshot:69
+dmc12wb:Delorean:68
+flatbed:sa6ha:67
+flatbed3:sa6ha:67
+bison2:Hilux 1:65
+hilux1:Hilux 2:65
+hilux2:Hilux 3:65
+hilux3:Hilux 4:65
+slamvan:GMC 79:40
+bobcatxl:GMC 79 2:40
+fbi2:FBI Subrban:69
+patriot:Hummer 1:70
+720s:720s:58
+wraithb:Wraith night:63
+fugitive:Car:69
+police3:Police:69
+h6:Hummer H6:70
+caprice:Caprice:32
+mesa:Hummer 2:70
+sheriff:Police:69
+police:Police:69
+phantom:Semi:64
+supra2:Supra A80:65
+a8fsi:Audi A8 mzh:25
+jet:Airbus A380:71
+cayenne:Cayenne:62
+haaamid:Cube Harsaki:69
+rculi:Cullinan:63
+19s65:S65 AMG:59
+sonata20:Hyndai Sonata2020:45
+sandking::Cyber Truck:64
+tahoe21:Tahoe 2021:32
+tunak:TukTuk:69
+911turbos:911 gt3rs:62
+viper:Viper Sh5l m3ath:35
